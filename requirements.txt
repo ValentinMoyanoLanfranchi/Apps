@@ -3,4 +3,3 @@ qrcode
 pyshorteners
 requests
 openai
-os
