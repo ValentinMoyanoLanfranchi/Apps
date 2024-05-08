@@ -1,0 +1,7 @@
+streamlit
+random
+qrcode
+pyshorteners
+requests
+openai
+os
